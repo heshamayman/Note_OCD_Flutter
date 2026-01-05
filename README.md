@@ -1,16 +1,31 @@
-# odc
+# Note App (Orange Digital Center)
+## Overview
 
-A new Flutter project.
+This is a mobile Note App developed with Orange Digital Center.
+It allows users to organize events, lectures, exams, notes, and stay updated with the latest news.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+- Mobile Development: Flutter, Dart
 
-A few resources to get you started if this is your first Flutter project:
+- State Management: Provider / Bloc / Riverpod (depending on what you used)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Local Database: SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Features
+
+- Add events, lectures, sections, and exams with specific times
+
+- Create and manage notes efficiently
+
+- Track the latest news and updates
+
+- Simple, user-friendly mobile interface
+
+## Use Case
+
+- Helps students organize schedules and academic tasks
+
+- Keeps users informed with current announcements and news
+
+- Improves productivity and time management
