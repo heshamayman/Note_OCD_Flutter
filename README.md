@@ -8,7 +8,7 @@ It allows users to organize events, lectures, exams, notes, and stay updated wit
 
 - Mobile Development: Flutter, Dart
 
-- State Management: Provider / Bloc / Riverpod (depending on what you used)
+- State Management: Bloc
 
 - Local Database: SQLite
 
